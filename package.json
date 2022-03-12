@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Juriy Bura <juriy.bura@gmail.com>",
+  "author": "Shufai  <techvalaxy@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
